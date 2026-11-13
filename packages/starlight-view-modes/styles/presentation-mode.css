@@ -381,6 +381,7 @@
   }
 
   .starlight-view-modes-presentation-toolbar label .label-icon {
+    top: 50%;
     inset-inline-start: 50%;
     font-size: 1.25rem;
     transform: translate(-50%, -50%);
