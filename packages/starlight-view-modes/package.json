@@ -76,7 +76,7 @@
     "vitest": "^5.0.2"
   },
   "peerDependencies": {
-    "@astrojs/starlight": ">=0.42.0"
+    "@astrojs/starlight": ">=0.43.0"
   },
   "engines": {
     "node": ">=22.12.0"
