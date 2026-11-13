@@ -27,10 +27,10 @@
     "@hideoo/starlight-plugins-docs-components": "^0.5.0",
     "@trueberryless/starlight-plugins-docs-components": "^0.7.2",
     "astro": "^7.3.5",
-    "astro-contributors": "^0.9.0",
+    "astro-contributors": "^0.10.0",
     "sharp": "^0.35.4",
     "starlight-image-zoom": "^0.16.0",
-    "starlight-links-validator": "^0.26.0",
+    "starlight-links-validator": "^0.27.0",
     "starlight-package-managers": "^0.13.0",
     "starlight-view-modes": "workspace:*"
   },
