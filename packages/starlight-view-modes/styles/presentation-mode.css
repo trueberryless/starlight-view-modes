@@ -383,7 +383,7 @@
   .starlight-view-modes-presentation-toolbar label .label-icon {
     inset-inline-start: 50%;
     font-size: 1.25rem;
-    transform: translate(-50%, -50%);
+    transform: translateX(-50%);
   }
 
   .starlight-view-modes-presentation-toolbar label .caret {
