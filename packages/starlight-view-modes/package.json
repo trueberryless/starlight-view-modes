@@ -57,7 +57,7 @@
     "test:e2e": "playwright test"
   },
   "dependencies": {
-    "@astrojs/markdown-remark": "^7.3.1",
+    "@astrojs/markdown-remark": "^7.3.5",
     "@pagefind/default-ui": "^1.5.2",
     "hast-util-from-html": "^2.0.3",
     "hast-util-to-html": "^9.0.5",
@@ -65,15 +65,15 @@
     "picomatch": "^4.0.7",
     "reveal.js": "^6.0.2",
     "satteri": "^0.10.5",
-    "unist-util-visit": "^5.1.0"
+    "unist-util-visit": "^5.2.0"
   },
   "devDependencies": {
     "@astrojs/starlight": "^0.43.0",
-    "@playwright/test": "^1.63.0",
+    "@playwright/test": "^1.64.1",
     "@types/hast": "^3.0.5",
     "@types/picomatch": "^4.0.3",
-    "astro": "^7.3.5",
-    "vitest": "^5.0.2"
+    "astro": "^7.4.4",
+    "vitest": "^5.0.5"
   },
   "peerDependencies": {
     "@astrojs/starlight": ">=0.43.0"
