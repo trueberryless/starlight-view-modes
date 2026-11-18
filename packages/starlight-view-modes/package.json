@@ -64,7 +64,7 @@
     "mdast-util-mdx-expression": "^2.0.1",
     "picomatch": "^4.0.7",
     "reveal.js": "^6.0.2",
-    "satteri": "^0.10.5",
+    "satteri": "^0.11.6",
     "unist-util-visit": "^5.1.0"
   },
   "devDependencies": {
